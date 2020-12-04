@@ -1,4 +1,4 @@
-# Hi there,i'm Lucas 👋
+# Hi there,I'm Lucas 👋
 
 :computer: Junior Front End Developer
 

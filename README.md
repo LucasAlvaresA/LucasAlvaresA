@@ -1,4 +1,4 @@
-# Hi there,I'm Lucas 👋
+# Hi there, I'm Lucas 👋
 
 :computer: Junior Front End Developer
 
@@ -17,5 +17,3 @@
 ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-
-

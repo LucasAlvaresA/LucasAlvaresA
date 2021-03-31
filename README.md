@@ -2,7 +2,7 @@
 
 :computer: Junior Front End Developer
 
-:writing_hand: Currently studying React.Js and Angular
+:writing_hand: Currently studying React.Js and Node.Js
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 

@@ -5,8 +5,8 @@
 :writing_hand: Currently studying React.Js
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 

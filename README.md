@@ -24,5 +24,5 @@
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 <div>
-   <img align="center" width="100%" height="180px" alt="yep" src="https://64.media.tumblr.com/a469b062f59e718b39ee09b37b99d966/tumblr_mtn9ydytgB1rb06tgo1_500.gif">
+   <img align="center" width="100%" alt="yep" src="https://64.media.tumblr.com/a469b062f59e718b39ee09b37b99d966/tumblr_mtn9ydytgB1rb06tgo1_500.gif">
 </div>

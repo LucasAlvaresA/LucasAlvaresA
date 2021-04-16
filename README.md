@@ -10,7 +10,7 @@
 ##
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
+<div>
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
@@ -23,6 +23,5 @@
 ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-<div>
-   <img align="center" width="100%" alt="yep" src="https://64.media.tumblr.com/a469b062f59e718b39ee09b37b99d966/tumblr_mtn9ydytgB1rb06tgo1_500.gif">
+   <img align="rigth" width="150px" alt="yep" src="https://64.media.tumblr.com/a469b062f59e718b39ee09b37b99d966/tumblr_mtn9ydytgB1rb06tgo1_500.gif">
 </div>

@@ -4,6 +4,14 @@
 
 :writing_hand: Currently studying React.Js
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&langs_count=8&theme=dark"/>
+</div>
+
+
+##
+
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)

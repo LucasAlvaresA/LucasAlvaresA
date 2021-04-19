@@ -1,6 +1,6 @@
 # <div align="center"> Hi there, I'm Lucas 👋 </div>
 
-:computer: Junior Front End Developer
+<div align="center"> :computer: Junior Front End Developer </div>
 
 <div>
   <img  align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

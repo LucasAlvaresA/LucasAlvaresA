@@ -1,4 +1,4 @@
-# Hi there, I'm Lucas 👋
+# <div align="center"> Hi there, I'm Lucas 👋 </div>
 
 :computer: Junior Front End Developer
 

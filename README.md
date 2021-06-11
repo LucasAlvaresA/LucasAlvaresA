@@ -2,13 +2,6 @@
 
 <div align="center"> :computer: Junior Front End Developer </div>
 
-<div>
-  <img  align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center"  height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-##
-
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
   
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -24,4 +17,14 @@
 ![Angular](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+
+##
+
+<div>
+  <img  align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center"  height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+##
+
 

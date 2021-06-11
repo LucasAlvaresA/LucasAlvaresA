@@ -2,7 +2,7 @@
 
 ### <div align="center"> :computer: Junior Front End Developer </div>
 
-<div align="center"> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </div>
+## <div align="center"> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </div>
 
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)

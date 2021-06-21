@@ -1,6 +1,6 @@
 # <div align="center"> Hi there, I'm Lucas <img src="https://i.imgur.com/u8HivgI.gif" width="25px"> </div>
 
-### <div align="center"> :computer: Junior Front End Developer </div>
+### <div align="center"> :computer: Front End Developer </div>
 
 ## <div align="center"> :brain: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </div>
 

@@ -28,14 +28,13 @@
 ## <div align="center">:star: Badges </div>
   
 <div  align="center">
-<a href="https://app.daily.dev/LucasAlvares"><img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=i91" width="250" alt="Lucas Álvares's Dev Card"/></a>
+  <a href="https://app.daily.dev/LucasAlvares"><img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=i91" width="250" alt="Lucas Álvares's Dev Card"/></a>
 </div>
   
 ##
   
-<div  align="center">
-  <img  align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center"  height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&langs_count=8&theme=tokyonight&card_width=400"/>
-<!--   <img align="center"  height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&langs_count=8&theme=tokyonight"/> -->
+<div width="100%">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasAlvaresA&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&count_private=true&theme=midnight-purple&hide_border=true" width="49.75%"/>
 </div>
 </div>

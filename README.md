@@ -1,3 +1,4 @@
+# <div align="center">
 # <div align="center"> Hi there, I'm Lucas <img src="https://i.imgur.com/u8HivgI.gif" width="25px"> </div>
 
 ### <div align="center"> :computer: Front End Developer </div>
@@ -16,7 +17,7 @@
   ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
  
 ## <div align="center">:books: Things I'm currently learning </div>
-
+  
   ![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -26,10 +27,17 @@
 
 ##
 
-<div>
+## <div align="center">:star: Badges </div>
+  
+<div  align="center">
+<a href="https://app.daily.dev/LucasAlvares"><img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=i91" width="250" alt="Lucas Álvares's Dev Card"/></a>
+</div>
+  
+##
+  
+<div  align="center">
   <img  align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="center"  height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&langs_count=8&theme=tokyonight&card_width=400"/>
 <!--   <img align="center"  height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&langs_count=8&theme=tokyonight"/> -->
 </div>
-
-##
+</div>

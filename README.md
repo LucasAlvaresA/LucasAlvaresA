@@ -7,7 +7,7 @@
 </div>
 
 ### <div align="center"> :computer: Front End Developer </div>
-    
+
 ## <div align="center"> :brain: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </div>
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -38,10 +38,12 @@
 ## <div align="center">:star: Badges </div>
 
 <div  align="center">
-  <a href="https://app.daily.dev/LucasAlvares">
-  <h1>July - 2021</h1>
-  <img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=i91" width="250" alt="Lucas Álvares's Dev Card"/>
-  </a>
+  <div>
+    <a href="https://app.daily.dev/LucasAlvares">
+      <img src="./src/devcard_july.png" width="250" alt="Lucas Álvares's Dev Card"/>
+    </a>
+  </div>
+
 </div>
   
 ##

@@ -2,12 +2,12 @@
 
 # <div align="center"> Hi there, I'm Lucas <img src="https://i.imgur.com/u8HivgI.gif" width="25px"> </div>
 
-### <div align="center"> :computer: Front End Developer </div>
-
 <div>
 <img alt="code" src="./src/code.gif" width="100%" height="400px"/>
 </div>
 
+### <div align="center"> :computer: Front End Developer </div>
+    
 ## <div align="center"> :brain: 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </div>
 
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)

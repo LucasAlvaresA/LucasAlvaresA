@@ -9,14 +9,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&count_private=true&theme=midnight-purple&hide_border=true" width="48%"/>
 </p>
     
-<div  align="center">     
-      
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-      
+<div align="center">   
+    
+  <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=4f2382&logoColor=ffffff" />
+  <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382&logoColor=ffffff" />    
+  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&color=4f2382&logoColor=ffffff" />
+  <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&color=4f2382&logoColor=ffffff" />
+  <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&style=for-the-badge&logo=typescript&color=4f2382&logoColor=ffffff" />
+  <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=4f2382&logoColor=ffffff" />
+
 </div>   
     
 <div  align="center">

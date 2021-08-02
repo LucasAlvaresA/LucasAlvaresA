@@ -4,10 +4,10 @@
 <img alt="code" src="./src/code.gif" width="100%"/>
 </div>
     
-<div width="100%">
+<p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasAlvaresA&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="48%"/>
     <img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&count_private=true&theme=midnight-purple&hide_border=true" width="48%"/>
-</div>
+</p>
     
 <div  align="center">     
       

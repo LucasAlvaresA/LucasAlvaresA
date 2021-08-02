@@ -3,7 +3,7 @@
 # <div align="center"> Hi there, I'm Lucas <img src="https://i.imgur.com/u8HivgI.gif" width="25px"> </div>
 
 <div>
-<img alt="code" src="./src/code.gif" width="100%" height="400px"/>
+<img alt="code" src="./src/code.gif" width="96%"/>
 </div>
 
 ### <div align="center"> :computer: Front End Developer </div>
@@ -31,8 +31,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) -->
 
 <div width="100%">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasAlvaresA&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="49.75%"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&count_private=true&theme=midnight-purple&hide_border=true" width="49.75%"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=LucasAlvaresA&theme=dark&hide_border=true&background=000000&fire=7E3ACE&ring=7E3ACE&currStreakLabel=FFFFFF)](https://git.io/streak-stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&count_private=true&theme=midnight-purple&hide_border=true" width="48%"/>
 </div>
 
 ## <div align="center">:star: Badges </div>

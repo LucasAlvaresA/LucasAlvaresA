@@ -22,9 +22,9 @@
     
 <div  align="center">
   <div>
-    <a href="https://app.daily.dev/LucasAlvares">
+<!--     <a href="https://app.daily.dev/LucasAlvares">
       <img src="./src/devcard_july.png" width="250" alt="Dev Card July"/>
-    </a>
+    </a> -->
     <a href="https://app.daily.dev/LucasAlvares">
       <img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=mcp" width="250" alt="Dev Card Today"/>
     </a>

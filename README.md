@@ -5,8 +5,8 @@
 </div>
     
 <p align="center">
-<!--     <img src="http://github-readme-streak-stats.herokuapp.com/?user=LucasAlvaresA&hide_border=true&background=00000000&border=7E3ACE&stroke=7E3ACE&ring=7E3ACE&fire=7E3ACE&currStreakNum=7E3ACE&sideNums=7E3ACE&currStreakLabel=7E3ACE&sideLabels=7E3ACE&dates=7E3ACE)](https://git.io/streak-stats" width="400" /> -->
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&count_private=true&title_color=7E3ACE&text_color=7E3ACE&icon_color=7E3ACE&border_color=7E3ACE&bg_color=ffffff00&hide_border=true"  width="100%" />
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=LucasAlvaresA&hide_border=true&background=00000000&border=7E3ACE&stroke=7E3ACE&ring=7E3ACE&fire=7E3ACE&currStreakNum=7E3ACE&sideNums=7E3ACE&currStreakLabel=7E3ACE&sideLabels=7E3ACE&dates=7E3ACE)](https://git.io/streak-stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&count_private=true&title_color=7E3ACE&text_color=7E3ACE&icon_color=7E3ACE&border_color=7E3ACE&bg_color=ffffff00&hide_border=true"  width="400" />
 </p>
     
 <div align="center">   
@@ -21,10 +21,7 @@
     
 <div  align="center">
   <div>
-<!--     <a href="https://app.daily.dev/LucasAlvares">
-      <img src="./src/devcard_july.png" width="250" alt="Dev Card July"/>
-    </a> -->
-   <a href="https://app.daily.dev/LucasAlvares"><img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=0my" width="250" alt="Lucas Álvares's Dev Card"/></a>
+   <a href="https://app.daily.dev/LucasAlvares"><img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=wkm" width="250" alt="Lucas Álvares's Dev Card"/>      </a>
   </div>
 </div>
   

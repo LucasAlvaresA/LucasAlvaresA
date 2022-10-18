@@ -7,10 +7,13 @@
 <div align="center">   
     
   <img src="https://img.shields.io/static/v1?label=&message=REACT.js&style=for-the-badge&logo=react&color=4f2382" />
+  <img src="https://img.shields.io/badge/next.js-4f2382?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
   <img src="https://img.shields.io/static/v1?label=&message=REDUX&style=for-the-badge&logo=redux&color=4f2382" />    
   <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&style=for-the-badge&logo=javascript&color=4f2382" />
   <img src="https://img.shields.io/static/v1?label=&message=TYPESCRIPT&style=for-the-badge&logo=typescript&color=4f2382" />
-  <img src="https://img.shields.io/static/v1?label=&message=NODE.js&style=for-the-badge&logo=node.js&color=4f2382" />
+  <img src="https://img.shields.io/badge/styled--components-4f2382?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
+  <img src="https://img.shields.io/badge/Ant%20Design-4f2382?style=for-the-badge&logo=antdesign&logoColor=1890FF" />
+  <img src="https://img.shields.io/badge/Unity-4f2382?style=for-the-badge&logo=unity&logoColor=100000" />
 
 </div>   
     

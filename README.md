@@ -24,7 +24,7 @@
   <div>
    <img alt="code" src="./src/magicianGirlLeft.png" width="350px" height="350px"/>
     <a href="https://app.daily.dev/LucasAlvares"><img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=wkm" width="250" alt="Lucas Álvares's Dev Card"/> 
-    <img alt="code" src="./src/magicianGirlRight.png" width="350px" height="350px"/>
+<!--     <img alt="code" src="./src/magicianGirlRight.png" width="350px" height="350px"/> -->
   </div>
 </div>
   

@@ -1,8 +1,8 @@
 # <div align="center">
 
-<div align="center">
-    <img src="https://count.getloli.com/get/@:LucasAlvaresA" alt=":LucasAlvaresA" />
- </div>
+<!-- <div align="center">
+      <img src="https://count.getloli.com/get/@:LucasAlvaresA" alt=":LucasAlvaresA" />   
+  </div> -->
     
 <div align="center">   
     

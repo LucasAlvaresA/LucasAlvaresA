@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Lucas</h1>
+<h3 align="center">A fullstack developer from Brazil</h3>
+
 # <div align="center">
 
 <div align="center">      

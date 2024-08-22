@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A Front-end developer with more experience in React, I'm looking for challenges to continue learning.</h3>
+<!-- <h1 align="center">Hi 👋, I'm Lucas</h1> -->
+<!-- <h3 align="center">A Front-end developer with more experience in React, I'm looking for challenges to continue learning.</h3> -->
 
 # <div align="center">
 
@@ -27,8 +27,7 @@
 <div align="center">
     <div align="center">
   <div>
-    <!--    <img alt="code" src="./src/magicianGirlLeft.png" width="350px" height="350px"/> -->
-    <!--    <img src="https://count.getloli.com/get/@:LucasAlvaresA" alt=":LucasAlvaresA" />    -->
+    <img alt="code" src="./src/magicianGirlLeft.png" width="350px" height="350px"/>
     <a href="https://app.daily.dev/LucasAlvares"><img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=wkm" width="250" alt="Lucas Álvares's Dev Card"/> 
   </div>
 </div>

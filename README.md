@@ -1,6 +1,3 @@
-<!-- <h1 align="center">Hi 👋, I'm Lucas</h1> -->
-<!-- <h3 align="center">A Front-end developer with more experience in React, I'm looking for challenges to continue learning.</h3> -->
-
 # <div align="center">
 
 <div align="center">      
@@ -22,18 +19,5 @@
     <img src="http://github-readme-streak-stats.herokuapp.com/?                user=LucasAlvaresA&hide_border=true&background=00000000&border=21265f&stroke=21265f&ring=21265f&fire=21265f&currStreakNum=21265f&sideNums=21265f&currStreakLabel=21265f&sideLabels=21265f&dates=21265f)](https://git.io/streak-stats"  width="390"/> 
     <img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&count_private=true&title_color=21265f&text_color=21265f&icon_color=21265f&border_color=21265f&bg_color=ffffff00&hide_border=true"  width="390" />
 </p>
-
-
-
-<!-- 
-  <div align="center">
-      <div align="center">
-    <div>
-      <img alt="code" src="./src/magicianGirlLeft.png" width="350px" height="350px"/>
-      <a href="https://app.daily.dev/LucasAlvares"><img src="https://api.daily.dev/devcards/997d93ae6cf9426e993fb2a0b7c4656d.png?r=wkm" width="250" alt="Lucas Álvares's Dev Card"/> 
-    </div>
-  </div>
--->     
-
-         
+   
 </div>

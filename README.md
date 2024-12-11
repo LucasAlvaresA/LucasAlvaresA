@@ -5,7 +5,7 @@ Front-end Developer and Beginner Game Developer
 -----------------------------------------------
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio [here](http://portfolio-lucas-alvares.vercel.app/)
+* 🖥️  See my portfolio [here](http://lucas-alvares.vercel.app)
 * 🚀  I'm currently working on [L5 Team](http://github.com/L5-Team)
 * 🧠  I'm learning Node.js and GML
 

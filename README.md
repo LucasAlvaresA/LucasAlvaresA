@@ -27,8 +27,6 @@ Front-end Developer and Beginner Game Developer
 
 <a href="http://www.github.com/LucasAlvaresA"><img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="LucasAlvaresA's GitHub stats" /></a>
 
-<a href="http://www.github.com/LucasAlvaresA"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasAlvaresA&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/LucasAlvaresA/zelda-kaboom" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlvaresA&repo=zelda-kaboom&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/LucasAlvaresA/next-delivery" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlvaresA&repo=next-delivery&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

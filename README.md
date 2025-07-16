@@ -1,23 +1,26 @@
 <h1 align="center">Hi 👋, I'm Lucas Álvares</h1>
-<h3 align="center">Front-end Developer & Game Developer</h3>
+<h3 align="center">Front-end & Game Developer | React, Next.js & GML</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Front-end+Developer;Game+Developer;React+%7C+Next.js+%7C+TypeScript;Learning+Node.js+%26+GML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Front-end+Developer;Game+Developer;React+%7C+Next.js+%7C+TypeScript;Learning+Node.js+%26+GML" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🌍 I'm based in **Brazil**
-- 🖥️ See my portfolio [here](http://lucas-alvares.vercel.app)
-- 🚀 I'm currently working at [L5 Team](http://github.com/L5-Team)
-- 🧠 Learning **Node.js** and **GameMaker Language**
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on [L5 Team](https://github.com/L5-Team)
+- 🌱 I’m learning **Node.js** and **GameMaker Language**
+- 💬 Ask me about **React, Next.js, Tailwind, TypeScript**
+- ⚡ Fun fact: I love creating Zelda-inspired games
+- 🎯 2025 Goals: Contribute to open-source & launch an indie game
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,bootstrap,sass,nodejs,vite,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,bootstrap,sass,nodejs,vite,git,figma&perline=9" />
 </p>
 
 ---
@@ -34,6 +37,14 @@
   <a href="https://stackoverflow.com/users/14068530/lucas-alvares" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasAlvaresA&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -60,4 +71,4 @@
 
 ---
 
-<p align="center">💡 “Code is like humor. When you have to explain it, it’s bad.”</p>
+<p align="center">💡 *“Code is like humor. When you have to explain it, it’s bad.”*</p>

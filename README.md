@@ -1,50 +1,63 @@
-# Front-end Developer and Game Developer
------------------------------------------------
+<h1 align="center">Hi 👋, I'm Lucas Álvares</h1>
+<h3 align="center">Front-end Developer & Game Developer</h3>
 
-* 🌍  I'm based in Brazil  
-* 🖥️  See my portfolio [here](http://lucas-alvares.vercel.app)  
-* 🚀  I'm currently working on [L5 Team](http://github.com/L5-Team)  
-* 🧠  I'm learning Node.js and GML  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Front-end+Developer;Game+Developer;React+%7C+Next.js+%7C+TypeScript;Learning+Node.js+%26+GML" alt="Typing SVG" />
+</p>
 
-### Skills
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-hotpink?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</div>
+- 🌍 I'm based in **Brazil**
+- 🖥️ See my portfolio [here](http://lucas-alvares.vercel.app)
+- 🚀 I'm currently working at [L5 Team](http://github.com/L5-Team)
+- 🧠 Learning **Node.js** and **GameMaker Language**
 
-### Socials
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/LucasAlvaresA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alvaress/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14068530/lucas-alvares)
+### 🛠️ Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,bootstrap,sass,nodejs,vite,git&perline=8" />
+</p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>  
-<a href="http://www.github.com/LucasAlvaresA"><img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="LucasAlvaresA's GitHub stats" /></a>
+### 🌐 Connect with me
 
-<b>Top Repositories</b>  
-
-<div width="100%" align="center">
-  <a href="https://github.com/LucasAlvaresA/zelda-kaboom" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlvaresA&repo=zelda-kaboom&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
+<p align="center">
+  <a href="https://github.com/LucasAlvaresA" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/LucasAlvaresA/next-delivery" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlvaresA&repo=next-delivery&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" />
+  <a href="https://www.linkedin.com/in/lucas-alvaress/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>  
-<br /><br /><br /><br /><br /><br /><br />
+  <a href="https://stackoverflow.com/users/14068530/lucas-alvares" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasAlvaresA&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlvaresA&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/LucasAlvaresA/zelda-kaboom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlvaresA&repo=zelda-kaboom&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/LucasAlvaresA/next-delivery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasAlvaresA&repo=next-delivery&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">💡 “Code is like humor. When you have to explain it, it’s bad.”</p>

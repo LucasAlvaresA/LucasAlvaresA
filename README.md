@@ -12,8 +12,6 @@
 - 🔭 I’m currently working on [L5 Team](https://github.com/L5-Team)
 - 🌱 I’m learning **Node.js** and **GameMaker Language**
 - 💬 Ask me about **React, Next.js, Tailwind, TypeScript**
-- ⚡ Fun fact: I love creating Zelda-inspired games
-- 🎯 2025 Goals: Contribute to open-source & launch an indie game
 
 ---
 

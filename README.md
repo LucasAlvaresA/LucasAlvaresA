@@ -1,4 +1,4 @@
-<h3 align="center">💻 Front-end & Game Developer | ⚛️ React, Next.js & GML</h3>
+<h3 align="center">💻 Front-end & Game Developer </h3>
 
 ---
 
@@ -7,7 +7,7 @@
 <div align="center">
   
 💡 Developer passionate about creating immersive experiences  
-🛠️ Focused on **React**, **Next.js**, **TypeScript**, and **Game Dev with GML**  
+🛠️ Focused on **React**, **Next.js**, **TypeScript**, and **Game Development**  
 🎯 Currently at [L5 Team](https://github.com/L5-Team), building innovative projects  
 📚 Always learning – exploring **Node.js** and **Game Maker**  
 

@@ -1,4 +1,4 @@
-<h3 align="center">💻 Front-end & Game Developer </h3>
+<h3 align="center">💻 Front-end Developer </h3>
 
 ---
 

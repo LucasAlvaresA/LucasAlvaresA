@@ -2,19 +2,6 @@
 
 ---
 
-### 🧩 **About Me**
-
-<div align="center">
-  
-💡 Developer passionate about creating immersive experiences  
-🛠️ Focused on **React**, **Next.js**, **TypeScript**, and **Game Development**  
-🎯 Currently at [L5 Team](https://github.com/L5-Team), building innovative projects  
-📚 Always learning – exploring **Node.js** and **Game Maker**  
-
-</div>
-
----
-
 ### 🚀 **Tech Stack**
 
 <p align="center">
@@ -44,10 +31,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E50914&center=true&vCenter=true&width=800&lines=Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad." alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=100&section=footer"/>

@@ -1,15 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=100&section=header"/>
-</p>
+# Lucas Álvares
 
-<h3 align="center">💻 Front-end Developer </h3>
+Front-End Developer focused on **React, Next.js and TypeScript**.  
+Experience building high-performance web and mobile applications, Design Systems, and scalable front-end architectures in production environments.
 
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,bootstrap,sass,nodejs,vite,git,figma&perline=9" />
-</p>
+## Tech Stack
 
+React • Next.js • TypeScript • React Native  
+Tailwind • Styled Components • Material UI • Jest • Figma
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=100&section=footer"/>
-</p>
+---
+
+## Links
+
+Portfolio: https://lucas-alvares.vercel.app  
+LinkedIn: https://linkedin.com/in/lucas-alvaress  
+Email: lucas.alvaress@hotmail.com

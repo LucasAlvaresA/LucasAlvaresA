@@ -16,4 +16,3 @@ Tailwind • Styled Components • Material UI • Jest • Figma
 
 Portfolio: https://lucas-alvares.vercel.app  
 LinkedIn: https://linkedin.com/in/lucas-alvaress  
-Email: lucas.alvaress@hotmail.com

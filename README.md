@@ -1,14 +1,23 @@
 # Lucas Álvares
 
-Front-End Developer focused on **React, Next.js and TypeScript**.  
-Experience building high-performance web and mobile applications, Design Systems, and scalable front-end architectures in production environments.
+Data Analyst focused on Python, Power BI and Excel, with a strong technical background in software development.
+
+Currently transitioning to the data field, developing skills in data analysis and business intelligence, with focus on transforming data into insights to support decision-making.
 
 ---
 
-## Tech Stack
+## Skills
 
-React • Next.js • TypeScript • React Native  
-Tailwind • Styled Components • Material UI • Jest • Figma
+Data Analysis • Data Visualization • Business Intelligence  
+Excel • Power BI • Python  
+
+---
+
+## Background
+
+4+ years of experience as a Front-End Developer, working with React, Next.js and TypeScript in the development of web and mobile applications in production environments.
+
+This background provides a solid understanding of systems, data structures and problem-solving.
 
 ---
 

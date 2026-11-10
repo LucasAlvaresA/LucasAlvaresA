@@ -51,7 +51,7 @@ I care about clean architecture, performance and the details that make a product
 
 Alongside engineering, I build end-to-end analytics case studies with Python, SQL and Power BI — from data cleaning and modeling to DAX, dashboards and storytelling.
 
-[View the 6 case studies →](https://lucas-alvares.vercel.app/#projects)
+[Explore Projects →](https://lucas-alvares.vercel.app/#projects)
 
 ---
 

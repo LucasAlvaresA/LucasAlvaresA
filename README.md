@@ -6,9 +6,7 @@
 
 Building end-to-end products with React, Next.js, Node.js, React Native and Swift.
 
-Open to Full Stack, Front-end and Mobile opportunities.
-
-[Portfolio](https://lucas-alvares.vercel.app) · [LinkedIn](https://linkedin.com/in/lucas-alvaress) · [GitHub](https://github.com/LucasAlvaresA)
+[Portfolio](https://lucas-alvares.vercel.app) · [LinkedIn](https://linkedin.com/in/lucas-alvaress)
 
 </div>
 
@@ -74,4 +72,4 @@ Alongside engineering, I build end-to-end analytics case studies with Python, SQ
 
 If you're hiring or building something that needs a full stack developer, let's talk.
 
-[Portfolio](https://lucas-alvares.vercel.app) · [LinkedIn](https://linkedin.com/in/lucas-alvaress) · [GitHub](https://github.com/LucasAlvaresA)
+[Portfolio](https://lucas-alvares.vercel.app) · [LinkedIn](https://linkedin.com/in/lucas-alvaress)
